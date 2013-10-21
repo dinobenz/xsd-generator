@@ -1,0 +1,1 @@
+xsd XsdFile.xsd /classes /language:CS /namespace:YourNamespaceHere
